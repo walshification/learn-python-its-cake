@@ -1,6 +1,6 @@
 # Learn Python, it's CAKE (Beginners)
 
-My solutions to the program assignments in [Learn Python, it's CAKE (Beginners)(https://www.udemy.com/course/draft/12318/learn)].
+My solutions to the program assignments in [Learn Python, it's CAKE (Beginners)](https://www.udemy.com/course/draft/12318/learn).
 
 ## Dependency Installation
 
