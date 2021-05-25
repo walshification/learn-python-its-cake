@@ -15,3 +15,6 @@ $ pipenv install
 [Tip Calculator](https://github.com/walshification/learn-python-its-cake/tree/main/tip_calculator.py)
 
 [Chicken Nugget Calculator](https://github.com/walshification/learn-python-its-cake/tree/main/chicken_nugget.py)
+
+[Word Counter](https://github.com/walshification/learn-python-its-cake/tree/main/alice/word_counter.py)
+  * _Alice in Wonderland_ sourced [here](https://gist.github.com/phillipj/4944029).
