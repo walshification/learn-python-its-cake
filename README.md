@@ -18,3 +18,5 @@ $ pipenv install
 
 [Word Counter](https://github.com/walshification/learn-python-its-cake/tree/main/alice/word_counter.py)
   * _Alice in Wonderland_ sourced [here](https://gist.github.com/phillipj/4944029).
+
+[Word Game](https://github.com/walshification/learn-python-its-cake/tree/main/word_game.py)
